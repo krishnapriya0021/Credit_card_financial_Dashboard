@@ -1,5 +1,5 @@
 **Credit Card Transaction and Customer Dashboard using Power BI
-**
+==============================================================
 • Developed an interactive dashboard using
 transaction and customer data from a SQL database,
 to provide real-time insights.
@@ -8,21 +8,21 @@ key performance metrics and trends.
 • Shared actionable insights with stakeholders based
 on dashboard findings to support decision-making
 processes.
-======================
+
 Project Objective
 =====================
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key 
 performance metrics and trends,enabling stakeholders to monitorand analyze credit card operations
 effectively.
 
-============================
+
 Import data to SQL database
 ============================
 1. Prepare csv file
 2. Create tables in SQL
 3. import csv file into SQL
 
-=======================
+
 DAX Queries
 =======================
 AgeGroup = SWITCH(
